@@ -4,7 +4,7 @@ import { Button } from './components/Button'
 function App() {
   return (
     <div>
-      <Button>Children</Button>
+      <Button>Teste Children</Button>
     </div>
   );
 }
